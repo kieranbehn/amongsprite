@@ -36,7 +36,7 @@ Note: Alternatively, you may import `const { Types } = AmongSprite` for better c
 ```js
 const AmongSprite = require('amongsprite')
 
-const canvas = await AmongSprite.create(resolution, hexColor, background, hat?, outfit?, pet?)
+const canvas = await AmongSprite.create(resolution, hexColor, background, hat?, outfit?, pet?, imposter?)
 ```
 
 #### Example
